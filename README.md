@@ -1,3 +1,3 @@
 # ecom.net.ru - Продажи на маркетплейсах.
-Contact: <br>
+Вопросы и предложения: <br>
 ecom.net.ru@gmail.com
