@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T16:29:52.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="oqBkJu5Dm5Kpp_KoJvOs" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-21T16:32:36.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="GF-nXiLngFpWT_IIq4Ys" version="18.0.7" type="github">
   <diagram id="qmRuE9SEd1rKAgiWZIl9" name="Page-1">
-    <mxGraphModel dx="2520" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="2430" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,12 +251,12 @@
         <mxCell id="O2xrhRhTO9CoQvw1CNzs-125" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=#B3FF66;labelBorderColor=default;sketch=0;fontSize=14;gradientColor=none;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="650" y="-290" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="O2xrhRhTO9CoQvw1CNzs-128" value="Условия" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#B3FF66;labelBorderColor=default;sketch=0;gradientColor=none;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="680" y="-245" width="90" height="30" as="geometry">
-            <mxRectangle x="680" y="-245" width="260" height="360" as="alternateBounds" />
+        <mxCell id="O2xrhRhTO9CoQvw1CNzs-128" value="Условия" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#B3FF66;labelBorderColor=default;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-245" width="260" height="360" as="geometry">
+            <mxRectangle x="680" y="-245" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O2xrhRhTO9CoQvw1CNzs-129" value="- закуп мин - 30% от опт продаж&#xa;&#xa;- производство мин -100% от опт продаж&#xa;&#xa;  &#xa; " style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=0;shadow=0;labelBackgroundColor=#B3FF66;labelBorderColor=default;sketch=0;" vertex="1" parent="O2xrhRhTO9CoQvw1CNzs-128">
+        <mxCell id="O2xrhRhTO9CoQvw1CNzs-129" value="- закуп мин - 30% от опт продаж&#xa;&#xa;- производство мин -100% от опт продаж&#xa;&#xa;  &#xa; " style="align=left;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=0;shadow=0;labelBackgroundColor=#E6FFCC;labelBorderColor=default;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="O2xrhRhTO9CoQvw1CNzs-128">
           <mxGeometry y="30" width="260" height="330" as="geometry" />
         </mxCell>
       </root>
